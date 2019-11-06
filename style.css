@@ -1,0 +1,13 @@
+* {
+  border: 1px solid red;
+}
+
+img {
+  width: 20%;
+  display: block;
+  margin: auto;
+}
+
+h1 {
+  font-size: 10pt;
+}
